@@ -1,0 +1,15 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+input {
+  padding: 6px;
+  font-size: 14px;
+}
+button {
+  padding: 6px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
